@@ -1,0 +1,39 @@
+Customizable Q Charms Project
+
+Q Charms are an alternative way for individuals to communicate via icons, or can be used as a way to keep track of tasks. ​
+The Q Charms we are working with are 3D- printable charms that can have customized icons. ​For individuals who want to design
+and make customized Q Charms, it can be difficult to easily translate a clipart- style image into a design that can be rendered
+in a CAD software. ​Additionally, the current Q Charm design only supports CAD modifications to the charms. ​ 
+The aim is to (1) Create an accessible software pipeline for creating digital custom Q Charm designs in CAD & 
+(2) Design a physically customizable Q charm, so that a user could customize with any image/icon of their choice.​
+
+This matters for individuals with disabilities because Q Charms are an important tool for communication and task tracking, 
+but customizing them currently requires CAD experience, limiting personalization. Many users, caregivers, and clinicians 
+cannot easily translate images into usable charm designs. Creating an accessible software pipeline and a physically customizable
+Q Charm allows anyone to quickly design charms with any icon or image. This improves independence, supports personalized communication,
+and empowers users to express their needs and preferences more effectively.
+
+
+Background:
+- Q Charms are an alternative way for individuals to communicate via icons, or can be used as a way to keep track of tasks. ​
+- The Q Charms we are working with are 3D-printable charms that can have customized icons.
+
+Problem:
+For individuals who want to design and make customized Q Charms, it can be difficult to easily translate a clipart-
+style image into a design that can be rendered in a CAD software. ​Additionally, the current Q Charm design only supports
+CAD modifications to the charms. 
+
+Aim:
+- (1) Create an accessible software pipeline for
+creating digital custom Q Charm designs in CAD.​
+- (2) Design a physically customizable Q charm, so that
+a user could customize with any image/icon of their
+choice.
+
+Design Criteria:
+- Customizable charm must be the same size/dimensions as the current Q charm design.​
+- Please document software pipeline in a way that has open sharing permissions!
+
+Suggestions:
+- Work to make the pipeline "software-independent"​
+- “Picture frame” style charm (user can slide in/out any image/icon of their choice for customization) 
